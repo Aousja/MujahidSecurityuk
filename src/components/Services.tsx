@@ -8,7 +8,7 @@ import guardImage from "@/assets/guard-service.jpg";
 import cctvImage from "@/assets/cctv-monitoring.jpg";
 import eventsecurity from "@/assets/event-security-1200x675.jpg";
 import commericalsecurity from "@/assets/commercial-security-systems-1040x555.jpeg";
-import herosecurity from "@/assets/hero-security.jpg";
+
 import eight from "@/assets/8.jpg";
 import imagee from "@/assets/images.jpeg";
 
