@@ -65,12 +65,12 @@ const Footer = () => {
             <ul className="space-y-2 text-sm opacity-90">
               <li>
                 <a href="tel:08005677662" className="hover:text-accent transition-colors">
-                  0800 5677662
+                  +44 7786 041851
                 </a>
               </li>
               <li>
                 <a href="mailto:info@mujahidsecurity.co.uk" className="hover:text-accent transition-colors">
-                  info@mujahidsecurity.co.uk
+                  Mh_mujahid70@yahoo.co.uk
                 </a>
               </li>
               <li>United Kingdom</li>
